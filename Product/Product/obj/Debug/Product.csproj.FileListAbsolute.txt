@@ -1,0 +1,10 @@
+G:\1\Product\Product\bin\Debug\Product.exe.config
+G:\1\Product\Product\bin\Debug\Product.exe
+G:\1\Product\Product\bin\Debug\Product.pdb
+G:\1\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+G:\1\Product\Product\obj\Debug\Product.Form1.resources
+G:\1\Product\Product\obj\Debug\Product.Properties.Resources.resources
+G:\1\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+G:\1\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+G:\1\Product\Product\obj\Debug\Product.exe
+G:\1\Product\Product\obj\Debug\Product.pdb
